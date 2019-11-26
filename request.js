@@ -44,7 +44,7 @@ app.use(async(ctx) => {
     // }
     console.log(ctx)
 })
-
+//使用node中的方式处理post请求数据
 function handlePostData(ctx){
     return new Promise((resolve,reject) => {
         try{

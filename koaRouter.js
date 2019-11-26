@@ -4,7 +4,7 @@ const Router = require('koa-router');
 
 const app = new Koa();
 const router = new Router();
-
+//使用koa-router设置路由
 router.get('/',(ctx,next) => {
     ctx.body = {
         code:200,

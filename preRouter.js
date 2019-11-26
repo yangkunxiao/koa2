@@ -4,7 +4,7 @@ const Router = require('koa-router');
 
 const app = new Koa();
 const router = new Router({
-    //设置路由前缀
+    //设置路由前缀 
     prefix:'/kaka'
 });
 
