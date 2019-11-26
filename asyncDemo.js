@@ -11,7 +11,7 @@ async function test(){
 function getSomething(){
     return 'something'
 }
-
+//async await简单案例
 async function fn(){
     const res1 = await test();
     const res2 = await getSomething();
