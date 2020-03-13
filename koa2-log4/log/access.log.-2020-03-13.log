@@ -1,0 +1,24 @@
+[2020-03-13T15:13:05.273] [INFO] cheese - ok
+[2020-03-13T15:13:05.275] [ERROR] cheese - TypeError: console.lg is not a function
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/app.js:38:13
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/@koa/router/lib/router.js:368:16
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/@koa/router/lib/router.js:373:31)
+    at next (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/middleware/log.js:7:23
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-static/index.js:53:15)
+[2020-03-13T15:13:18.125] [INFO] cheese - ok
+[2020-03-13T15:13:18.125] [ERROR] cheese - TypeError: console.lg is not a function
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/app.js:38:13
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/@koa/router/lib/router.js:368:16
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/@koa/router/lib/router.js:373:31)
+    at next (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at /Users/yangkunxiao/Desktop/HBuilder/KOA2/middleware/log.js:7:23
+    at dispatch (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-compose/index.js:42:32)
+    at serve (/Users/yangkunxiao/Desktop/HBuilder/KOA2/node_modules/koa-static/index.js:53:15)
