@@ -14,7 +14,7 @@
   "dependencies": {
     "busboy": "^0.3.1",
     "ejs": "^3.0.1",
-    "koa-bodyparser": "^3.2.0",
+    "koa-bodyparser": "^4.3.0",
     "koa-mysql-session": "0.0.2",
     "koa-router": "^7.4.0",
     "koa-session-minimal": "^3.0.4",
